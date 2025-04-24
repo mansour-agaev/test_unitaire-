@@ -1,0 +1,11 @@
+{
+    "name": "test-unitaire-calculatrice-js",
+    "type": "module",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
