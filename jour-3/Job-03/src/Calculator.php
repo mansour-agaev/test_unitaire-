@@ -19,4 +19,3 @@ class Calculator {
         return $result;
     }
 }
- 
